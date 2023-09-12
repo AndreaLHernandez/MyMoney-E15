@@ -1,5 +1,5 @@
 ## Crear Etiqueta
-[Regresar](.)
+[Regresar](../README.md)
 
 - Entrada (Json): descripción, tipo (ENUM(ingreso, egreso)), clasificación (ENUM(fijo, variable)) y color.
 ```

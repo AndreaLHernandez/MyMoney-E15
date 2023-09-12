@@ -1,5 +1,5 @@
 ## Generar listado de movimientos
-[Regresar](.)
+[Regresar](../README.md)
 
 - Query
 ```
