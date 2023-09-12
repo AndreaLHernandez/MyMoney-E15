@@ -1,5 +1,5 @@
 ## Añadir Movimiento
-[Regresar](.)
+[Regresar](../README.md)
 
 EGRESO
 -Entrada (Json):

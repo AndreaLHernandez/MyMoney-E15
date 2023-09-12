@@ -1,5 +1,5 @@
 ## Eliminar movimiento
-[Regresar](.)
+[Regresar](../README.md)
 
 - Entrada (Json): id del movimiento a eliminar 
 

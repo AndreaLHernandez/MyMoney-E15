@@ -90,11 +90,7 @@ docker-compose -f docker-compose-dev.yml up
    
    Metodo GET:{url}/search/movements [Ver información](./readme/listMov.md)
 
-- Crear Usuario:
-   {url}/api/v1/auth/signup [Ver información](./readme/createUser.md)
-
-- Activar Usuario:
-   {url}/api/v1/auth/verify-email/:token [Ver información](./readme/actUser.md)
 
 - Crear Etiqueta:
-   {url}/api/v1/tags [Ver información](./readme/createTag.md)
+
+   Metodo POST:{url}/api/v1/tags [Ver información](./readme/createTag.md)

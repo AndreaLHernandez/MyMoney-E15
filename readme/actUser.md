@@ -1,5 +1,5 @@
 ## Activar Usuario
-[Regresar](.)
+[Regresar](../README.md)
 
 Se envia un correo para confirmar el usuario, el cual se activa mandando el token en la URL.
 

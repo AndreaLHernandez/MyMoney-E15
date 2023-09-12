@@ -1,5 +1,5 @@
 Change Password
-Regresar
+[Regresar](../README.md)
 
 Entrada (Json): -oldPassword (campo requerido) -newPassword (campo requerido) -confirmnewPassword (campo requerido)
 que cumplan con letra mayuscula, minuscula, número y caracter especial
