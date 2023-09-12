@@ -1,0 +1,43 @@
+{
+  "name": "mymoney15",
+  "version": "1.0.0",
+  "description": "mymoney15 CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm run migrateandseed && nodemon -L index.js",
+    "start": "npm run migrateandseed && node index.js",
+    "migrateandseed": "node migratorandseed.js"
+  },
+  "author": "LizethRuiz",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "cron": "^2.0.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "express-validator": "^6.14.0",
+    "generate-password": "^1.7.0",
+    "jsonwebtoken": "^8.5.1",
+    "mime": "^3.0.0",
+    "moment": "^2.29.4",
+    "nanoid": "^3.3.2",
+    "node-cron": "^3.0.0",
+    "nodejs-nodemailer-outlook": "^1.2.4",
+    "nodemailer-express-handlebars": "^5.0.0",
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "rand-token": "^1.0.1",
+    "sequelize": "^6.16.1",
+    "xoauth2": "^1.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "googleapis": "^101.0.0",
+    "nodemailer": "^6.7.5",
+    "nodemon": "^2.0.19",
+    "sequelize-cli": "^6.4.1"
+  }
+}

@@ -1,0 +1,9 @@
+## Activar Usuario
+[Regresar](.)
+
+Se envia un correo para confirmar el usuario, el cual se activa mandando el token en la URL.
+
+- Ejemplo:
+```
+{url}/api/v1/auth/verify-email/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjo3NywiZW1haWwiOiJhbmR5bHUuaGVybmFuZGV6QGdtYWlsLmNvbSIsInBhc3N3b3JkIjoiJDJhJDEwJEFvYkJ1U0xxc2o1NlM4RXpZdUdHT2ViUkd6dThjWDcuZ2ZWQkU2Q3cwUjNLRWFQYXU1bXJXIiwidXBkYXRlZEF0IjoiMjAyMi0wNS0wNVQwNDoyMjoxOC45NjhaIiwiY3JlYXRlZEF0IjoiMjAyMi0wNS0wNVQwNDoyMjoxOC45NjhaIiwic3RhdHVzRGVsZXRlIjpmYWxzZSwic3RhdHVzQWN0IjpmYWxzZX0sImlhdCI6MTY1MTcyNDUzOSwiZXhwIjoxNjUxNzI1MTM5fQ.zTESAOtuP-gPyDtdY-Ciig0ktknzZv_ESXVoW1BmvUY
+```
