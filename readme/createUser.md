@@ -1,5 +1,5 @@
 ## Crear Usuario
-[Regresar](.)
+[Regresar](..)
 
 - Entrada (Json): email y contraseña que tenga mayuscula, minuscula, número y caracter especial
 ```
