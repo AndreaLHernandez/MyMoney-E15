@@ -9,7 +9,7 @@
     "start": "npm run migrateandseed && node index.js",
     "migrateandseed": "node migratorandseed.js"
   },
-  "author": "LizethRuiz",
+  "author": "AndreaLHernandez",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
